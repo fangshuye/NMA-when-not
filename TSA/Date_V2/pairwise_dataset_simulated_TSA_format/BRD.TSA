@@ -1,0 +1,324 @@
+#METAANALYSIS BEGIN
+identifier	BRD
+outcomeType	1
+trialType	1
+effectModel	10
+effectMeasure	6
+zeroEventHandling	Constant
+zeroEventValue	1.0
+ignoreZeroEventsTrials	true
+confidenceInterval	CI_950
+confidenceIntervalAlphaSpendingBoundary	
+group1	Enrofloxacin
+group2	No active control
+comment	
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#METAANALYSIS END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (CA)
+interventionEvent	67.0
+interventionTotal	98.0
+controlEvent	37.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (CO)
+interventionEvent	66.0
+interventionTotal	95.0
+controlEvent	25.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (ID)
+interventionEvent	72.0
+interventionTotal	100.0
+controlEvent	33.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (NE)
+interventionEvent	65.0
+interventionTotal	98.0
+controlEvent	37.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (CO)
+interventionEvent	69.0
+interventionTotal	101.0
+controlEvent	39.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (NE)
+interventionEvent	60.0
+interventionTotal	102.0
+controlEvent	33.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1998
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (TX)
+interventionEvent	67.0
+interventionTotal	101.0
+controlEvent	42.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Highland et al  (Cal)
+interventionEvent	64.0
+interventionTotal	100.0
+controlEvent	38.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Highland et al  (Colorado)
+interventionEvent	66.0
+interventionTotal	100.0
+controlEvent	39.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Highland et al  (Idaho)
+interventionEvent	70.0
+interventionTotal	98.0
+controlEvent	37.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	1999
+study	Highland et al  (Nebraska)
+interventionEvent	68.0
+interventionTotal	100.0
+controlEvent	38.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (CA)
+interventionEvent	69.0
+interventionTotal	100.0
+controlEvent	37.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study A)
+interventionEvent	14.0
+interventionTotal	24.0
+controlEvent	12.0
+controlTotal	12.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study B- CA)
+interventionEvent	65.0
+interventionTotal	100.0
+controlEvent	29.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study B- CO)
+interventionEvent	68.0
+interventionTotal	100.0
+controlEvent	32.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study B- ID)
+interventionEvent	64.0
+interventionTotal	98.0
+controlEvent	33.0
+controlTotal	49.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study B- NE)
+interventionEvent	69.0
+interventionTotal	100.0
+controlEvent	33.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study C- CA)
+interventionEvent	67.0
+interventionTotal	100.0
+controlEvent	37.0
+controlTotal	52.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study C- CO)
+interventionEvent	68.0
+interventionTotal	102.0
+controlEvent	34.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study C- NE)
+interventionEvent	66.0
+interventionTotal	102.0
+controlEvent	36.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2002
+study	Hamm- et al.- 2002 (Study C- TX)
+interventionEvent	66.0
+interventionTotal	101.0
+controlEvent	42.0
+controlTotal	51.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#TRIAL BEGIN
+sort	dichotomous
+year	2021
+study	New Study
+interventionEvent	32.0
+interventionTotal	50.0
+controlEvent	34.0
+controlTotal	50.0
+isHighQuality	false
+isForcefullyIgnored	false
+comment	
+#TRIAL END
+
+#ZCURVE BEGIN
+#GRAPH BEGIN
+id	Discrete Z-Curve
+color	0	0	255
+graphLineType	Full
+graphLineWidth	1.0
+graphIconType	Square Fill
+graphIconSize	5
+graphFont	java.awt.Font[family=Serif,name=Serif,style=plain,size=12]-12
+doShow	true
+#GRAPH END
+#ZCURVE END

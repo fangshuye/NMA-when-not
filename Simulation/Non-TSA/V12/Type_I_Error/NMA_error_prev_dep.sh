@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#SBATCH --time=50:00:00   # walltime limit (HH:MM:SS)
+#SBATCH --nodes=1   # number of nodes
+#SBATCH --ntasks-per-node=16   # 16 processor core(s) per node 
+#SBATCH --error=job.%J.err 
+#SBATCH --output=job.%J.out 
+#SBATCH --mail-user=fangshu.stat@gmail.com   # email address
+#SBATCH --mail-type=END
+module load r 
+Rscript NMA_error_prev_dep.R --r $1 > NMA_$SLURM_JOBID.Rout
+
+

@@ -1,0 +1,5 @@
+Comparison Number,Outcome Number,Subgroup Number,Name,Data Type,Events 1,Mean 1,SD 1,Total 1,Events 2,Mean 2,SD 2,Total 2,Group Label 1,Group Label 2,Year of study
+1,0,0,Young vs Old,,,,,,,,,,,,
+1,1,0,ADG,DIC,32,,,110,51,,,58,Experimental,Control,
+1,1,0,Chong 2001,,2,0,0,10,5,0,0,8,,,2001
+1,1,0,Fangshu 2021,,30,0,0,100,46,0,0,50,,,2021
