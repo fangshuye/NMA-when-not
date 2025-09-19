@@ -1,0 +1,22 @@
+"Study.number","Year","Study.me","Number.of.Event.in.arm.1","Number.of.Event.in.arm.2","Number.of.Event.in.arm.3","Total.number.in.arm.1","Total.number.in.arm.2","Total.number.in.arm.3","Total","Arm.1","Arm.2","Arm.3","Number.of.arms","SporARM1","SporARM2","SporARM3","Blinded","Randomized","Peer.reviewed","Arm1","Arm2","Arm3"
+"1",2002,"Hamm, et al., 2002 (Study A)",10,12,NA,24,12,NA,36,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"2",2002,"Hamm, et al., 2002 (Study B, CA)",20,43,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"3",2002,"Hamm, et al., 2002 (Study B, CO)",43,38,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"4",2002,"Hamm, et al., 2002 (Study B, ID)",7,32,NA,98,49,NA,147,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"5",2002,"Hamm, et al., 2002 (Study B, NE)",25,35,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"6",2002,"Hamm, et al., 2002 (Study C, CA)",28,51,NA,100,52,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"7",2002,"Hamm, et al., 2002 (Study C, CO)",33,44,NA,102,51,NA,153,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"8",2002,"Hamm, et al., 2002 (Study C, NE)",12,43,NA,102,50,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"9",2002,"Hamm, et al., 2002 (Study C, TX)",32,45,NA,101,51,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"10",NA,"Highland et al  (Cal)",20,47,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"11",NA,"Highland et al  (Colorado)",43,38,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"12",NA,"Highland et al  (Idaho)",7,32,NA,98,49,NA,147,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"13",NA,"Highland et al  (Nebraska)",25,35,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,1,1,6,1,NA
+"14",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (CA)",35,47,NA,98,50,NA,148,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"15",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (CO)",44,40,NA,95,50,NA,145,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"16",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (ID)",31,35,NA,100,50,NA,150,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"17",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (NE)",10,32,NA,98,49,NA,147,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"18",2002,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (CA)",31,51,NA,100,52,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"19",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (CO)",42,45,NA,101,51,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"20",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (NE)",19,43,NA,102,50,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA
+"21",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (TX)",37,45,NA,101,51,NA,152,"Enrofloxacin","No active control","",2,1,0,NA,1,0,0,6,1,NA

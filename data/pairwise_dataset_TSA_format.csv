@@ -1,0 +1,25 @@
+Comparison Number,Outcome Number,Subgroup Number,Name,Data Type,Events 1,Mean 1,SD 1,Total 1,Events 2,Mean 2,SD 2,Total 2,Group Label 1,Group Label 2,Year of study
+1,0,0,ENFO vs NAC,,,,,,,,,,,,
+1,1,0,BRD,DIC,564,,,2110,879,,,1067,Enrofloxacin,No active control,
+1,1,0,Hamm- et al.- 2002 (Study A), ,10,0,0,24,12,0,0,12, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study B- CA), ,20,0,0,100,43,0,0,50, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study B- CO), ,43,0,0,100,38,0,0,50, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study B- ID), ,7,0,0,98,32,0,0,49, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study B- NE), ,25,0,0,100,35,0,0,50, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study C- CA), ,28,0,0,100,51,0,0,52, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study C- CO), ,33,0,0,102,44,0,0,51, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study C- NE), ,12,0,0,102,43,0,0,50, , ,2002
+1,1,0,Hamm- et al.- 2002 (Study C- TX), ,32,0,0,101,45,0,0,51, , ,2002
+1,1,0,Highland et al  (Cal), ,20,0,0,100,47,0,0,50, , ,1999
+1,1,0,Highland et al  (Colorado), ,43,0,0,100,38,0,0,50, , ,1999
+1,1,0,Highland et al  (Idaho), ,7,0,0,98,32,0,0,49, , ,1999
+1,1,0,Highland et al  (Nebraska), ,25,0,0,100,35,0,0,50, , ,1999
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (CA), ,35,0,0,98,47,0,0,50, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (CO), ,44,0,0,95,40,0,0,50, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (ID), ,31,0,0,100,35,0,0,50, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers (NE), ,10,0,0,98,32,0,0,49, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (CA), ,31,0,0,100,51,0,0,52, , ,2002
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (CO), ,42,0,0,101,45,0,0,51, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (NE), ,19,0,0,102,43,0,0,50, , ,1998
+1,1,0,DA 141-068 Bayer Corp- 1998- Davidson- TerHune- Apley- Rogers- Letchenberg- Sunderman- Bechtol- Waite (TX), ,37,0,0,101,45,0,0,51, , ,1998
+1,1,0,New Study, ,10,0,0,90,46,0,0,50, , ,2021

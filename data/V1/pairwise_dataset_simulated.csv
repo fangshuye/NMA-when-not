@@ -1,0 +1,23 @@
+"","Year","Study.me","Number.of.Event.in.arm.1","Number.of.Event.in.arm.2","Total.number.in.arm.1","Total.number.in.arm.2"
+"1",2002,"Hamm, et al., 2002 (Study A)",14,12,24,12
+"2",2002,"Hamm, et al., 2002 (Study B, CA)",65,29,100,50
+"3",2002,"Hamm, et al., 2002 (Study B, CO)",68,32,100,50
+"4",2002,"Hamm, et al., 2002 (Study B, ID)",64,33,98,49
+"5",2002,"Hamm, et al., 2002 (Study B, NE)",69,33,100,50
+"6",2002,"Hamm, et al., 2002 (Study C, CA)",67,37,100,52
+"7",2002,"Hamm, et al., 2002 (Study C, CO)",68,34,102,51
+"8",2002,"Hamm, et al., 2002 (Study C, NE)",66,36,102,50
+"9",2002,"Hamm, et al., 2002 (Study C, TX)",66,42,101,51
+"10",NA,"Highland et al  (Cal)",64,38,100,50
+"11",NA,"Highland et al  (Colorado)",66,39,100,50
+"12",NA,"Highland et al  (Idaho)",70,37,98,49
+"13",NA,"Highland et al  (Nebraska)",68,38,100,50
+"14",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (CA)",67,37,98,50
+"15",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (CO)",66,25,95,50
+"16",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (ID)",72,33,100,50
+"17",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers (NE)",65,37,98,49
+"18",2002,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (CA)",69,37,100,52
+"19",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (CO)",69,39,101,51
+"20",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (NE)",60,33,102,50
+"21",1998,"DA 141-068 Bayer Corp, 1998, Davidson, TerHune, Apley, Rogers, Letchenberg, Sunderman, Bechtol, Waite (TX)",67,42,101,51
+"22",2021,"New Study",32,34,50,50
